@@ -5,18 +5,18 @@ El **Weather Monitoring System** es una aplicación diseñada para obtener predi
 ## Características
 
 - **Predicciones Marítimas**: Obtén información sobre el estado del mar. Las áreas cubiertas incluyen:
-  - **Océano Atlántico al sur de 35º N**
-  - **Océano Atlántico al norte de 30º N**
-  - **Mar Mediterráneo**
+  - Océano Atlántico al sur de 35º N
+  - Océano Atlántico al norte de 30º N
+  - Mar Mediterráneo
 - **Predicciones Costeras**: Accede a datos sobre las condiciones meteorológicas en la costa. Las áreas cubiertas incluyen:
-  - **Costa de Andalucía Occidental y Ceuta**
-  - **Costa de Andalucía Oriental y Melilla**
-  - **Costa de Asturias, Cantabria y País Vasco**
-  - **Costa de Cataluña**
-  - **Costa de Galicia**
-  - **Costa de Illes Balears**
-  - **Costa de las Islas Canarias**
-  - **Costa de Valencia y Murcia**
+  - Costa de Andalucía Occidental y Ceuta
+  - Costa de Andalucía Oriental y Melilla
+  - Costa de Asturias, Cantabria y País Vasco
+  - Costa de Cataluña
+  - Costa de Galicia
+  - Costa de Illes Balears
+  - Costa de las Islas Canarias
+  - Costa de Valencia y Murcia
 - **Datos Actualizados** Diariamente.
 - **Interfaz Amigable**: Una interfaz fácil de usar que permite una navegación intuitiva y acceso rápido a la información relevante.
 
